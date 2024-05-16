@@ -20,4 +20,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ponchoe/excalidraw-storage-backend:${{ github.ref_name }}
+          tags: ponchoe/rita-storage-backend:${{ github.ref_name }}
